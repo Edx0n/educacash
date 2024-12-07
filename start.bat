@@ -2,7 +2,7 @@
 
 
 echo Ola Professor, tudo bem? O Projeto ira iniciar sozinho, por favor aguarde pacientemente ate todos os pacotes carregarem.
-start cmd.exe /k "cd api && npm i && npm start"
+start cmd.exe /k "npm i && npm start"
 cd api && npm i && npm start 
 
 
