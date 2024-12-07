@@ -23,3 +23,6 @@ This will load the screen and the API.
 
 To check out the project go to: \
 Open [http://localhost:3000](http://localhost:3000) to see it in your browser.
+
+Example:
+![image](https://github.com/user-attachments/assets/3fa02b7b-252d-4ba0-8073-42a0bd3d829f)
