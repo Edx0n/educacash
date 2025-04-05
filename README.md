@@ -25,5 +25,4 @@ To check out the project go to: \
 Open [http://localhost:3000](http://localhost:3000) to see it in your browser.
 
 Example:
-![image](![image](https://github.com/user-attachments/assets/a0e73066-5637-441a-91de-58843ce03615)
-)
+![image](https://github.com/user-attachments/assets/3fa02b7b-252d-4ba0-8073-42a0bd3d829f)
